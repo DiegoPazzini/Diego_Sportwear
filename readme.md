@@ -17,4 +17,4 @@
 
 </div>
 
-Site hospedado na Vercel: https://pazzini-restaurant-d2yzu2ce9-diegopazzini.vercel.app/?vercelToolbarCode=xamOI6ndhN8DsT7#
+Site hospedado na Vercel: https://diego-sportwear-vuzl.vercel.app/
