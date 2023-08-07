@@ -7,7 +7,7 @@ Lading page de uma loja online de acessorios esportivos. Site responsivo para ta
 <h2>
     Pré-visualização
  </h2>
-  <h3>Landing Page de Loja</h3>
+  <h3>Landing Page da Loja</h3>
 
 <img width="800" src="./Imagens/capa.Deigo_sportwear.JPG">
  
