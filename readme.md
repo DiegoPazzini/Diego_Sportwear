@@ -4,6 +4,14 @@
 Lading page feita para a conclusão do módulo 14 do curso: Desenvolvedor FullStack Java.
 Lading page de uma loja online de acessorios esportivos. Site responsivo para tablets e smartphones (first mobile), usando tecnologias como Jquery, máscaras e bootstrap.
 
+<h2>
+    Pré-visualização
+ </h2>
+  <h3>Landing Page de Loja</h3>
+
+<img width="800" src="./imagens/capa.Deigo_sportwear">
+ 
+
 ## Skills utilizadas:
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
