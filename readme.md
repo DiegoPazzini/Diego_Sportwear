@@ -9,7 +9,7 @@ Lading page de uma loja online de acessorios esportivos. Site responsivo para ta
  </h2>
   <h3>Landing Page de Loja</h3>
 
-<img width="800" src="./imagens/capa.Deigo_sportwear.JPG">
+<img width="800" src="./Imagens/capa.Deigo_sportwear.JPG">
  
 
 ## Skills utilizadas:
