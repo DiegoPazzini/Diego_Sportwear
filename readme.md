@@ -1,5 +1,8 @@
 # Lading Page Diego Sportwear
-> Lading page feita para a conclusão do módulo 14 do curso: Desenvolvedor FullStack Java.
+
+<h2>Descrição do Projeto</h2>
+Lading page feita para a conclusão do módulo 14 do curso: Desenvolvedor FullStack Java.
+Lading page de uma loja online de acessorios esportivos. 
 
 ## Skills utilizadas:
 <div style="display: inline_block"><br>
@@ -18,4 +21,5 @@
 
 </div>
 
-Site hospedado na Vercel: https://diego-sportwear-vuzl.vercel.app/
+<h2>Visualização Online</h2>
+  <p>A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:</p> https://diego-sportwear-vuzl.vercel.app/
