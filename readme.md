@@ -1,7 +1,7 @@
 # Lading Page Diego Sportwear
 
 <h2>Descrição do Projeto</h2>
-Lading page feita para a conclusão do módulo 14 do curso: Desenvolvedor FullStack Java. 
+Lading page desenvolvida para a conclusão do módulo 14 do curso: Desenvolvedor FullStack Java. 
 Lading page de uma loja online de acessórios esportivos. Site responsivo para tablets e smartphones (first mobile), usando tecnologias como Jquery, máscaras e bootstrap.
 
 <h2>
